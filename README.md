@@ -1,4 +1,4 @@
-# Scala for the Impatient
+# Functional Programming in Scala
 
 Here are my answers to the questions in the book [Functional Programming in Scala](http://www.manning.com/bjarnason/)
 
